@@ -85,9 +85,9 @@ Analyze the packet capture and disk image to reconstruct the attacker’s action
 - **Objective:** Identify the RMM Account name used by the attacker.  
 - **Approach:** From the same TeamViewer log file, extracted the RMM account name tied to the remote session.  
 - **Result:** [REDACTED]  
-- **Notes:** Understood how RMM software logs can be used to attribute attacker actions to specific accounts.<br><br>
+- **Notes:** Understood how RMM software logs can be used to attribute attacker actions to specific accounts.
 
----
+---<br><br>
 
 ## 📶 Summary
 
