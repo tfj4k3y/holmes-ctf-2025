@@ -1,21 +1,21 @@
 # Challenge – The Watchman's Residue
 
-## Introduction
+## 📌 Introduction
 
 - **Category:** packet capture and disk image analysis.  
 - **Difficulty:** Medium.  
 - **Points:** 1900.  
-- **Files provided:** PCAPNG capture and disk image inside the provided ZIP.  
+- **Files provided:** PCAPNG capture and disk image inside the provided ZIP.  <br><br>
 
-## Description
+## 📝 Description
 
-This challenge simulates the compromise of a Managed Service Provider (MSP) connected to the city’s financial core. According to the storyline, the attacker manipulated the MSP’s AI servicedesk bot into leaking remote access credentials, a known technique of Moriarty’s.
+This challenge simulates the compromise of a Managed Service Provider (MSP) connected to the city’s financial core. According to the storyline, the attacker manipulated the MSP’s AI servicedesk bot into leaking remote access credentials, a known technique of Moriarty’s.<br><br>
 
-## Objective
+## 🎯 Objective
 
-Analyze the packet capture and disk image to reconstruct the attacker’s actions and retrieve 8 flags.
+Analyze the packet capture and disk image to reconstruct the attacker’s actions and retrieve 8 flags.<br><br>
 
-## Flags
+## 🚩 Flags
 
 ### Flag #1 – Attacker’s IP address
 
@@ -85,11 +85,11 @@ Analyze the packet capture and disk image to reconstruct the attacker’s action
 - **Objective:** Identify the RMM Account name used by the attacker.  
 - **Approach:** From the same TeamViewer log file, extracted the RMM account name tied to the remote session.  
 - **Result:** [REDACTED]  
-- **Notes:** Understood how RMM software logs can be used to attribute attacker actions to specific accounts.
+- **Notes:** Understood how RMM software logs can be used to attribute attacker actions to specific accounts.<br><br>
 
 ---
 
-## Summary
+## 📶 Summary
 
 - **What I learned:** Improved skills in analyzing PCAPs and disk images together, correlating network and host-based evidence, and identifying prompt injection techniques in chatbot interactions.  
 - **Most useful tools/techniques:** Wireshark (Conversations, Endpoints, Follow TCP Stream), NBNS analysis, HTTP payload inspection, disk log analysis (TeamViewer).  
