@@ -121,10 +121,10 @@ Analyze logs to identify the attacker’s activities and retrieve 12 flags.<br><
 - **Objective:** Discover the cryptic message displayed in the banner of an exposed service.
 - **Approach:** On the CogNet Scanner Platform, navigated to the Services tab and inspected the details of each exposed service. Found a unique banner string under TCP port 7477.
 - **Result:** [REDACTED]
-- **Notes:** Recognized how unusual service banners can provide additional intelligence about attacker infrastructure.<br><br>
+- **Notes:** Recognized how unusual service banners can provide additional intelligence about attacker infrastructure.
 
 ---
-
+<br><br>
 ## 📶 Summary
 
 - **What I learned:** Improved my ability to correlate artifacts across different log sources, pivot IOCs into CTI platforms, and validate findings with supporting evidence. Also practiced structured documentation of investigation steps.  
