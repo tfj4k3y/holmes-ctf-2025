@@ -87,7 +87,8 @@ Analyze the packet capture and disk image to reconstruct the attacker’s action
 - **Result:** [REDACTED]  
 - **Notes:** Understood how RMM software logs can be used to attribute attacker actions to specific accounts.
 
----<br><br>
+---
+<br><br>
 
 ## 📶 Summary
 
