@@ -1,22 +1,22 @@
 # Holmes CTF 2025
 
-## 📝 Description
+## 1. Description
 
 Holmes CTF 2025 was the first blue team Capture the Flag competition organized by HackTheBox. It took place from **22.09.2025 15:00** to **26.09.2025 21:00**.<br><br>
 
-## 📈 Progress
+## 2. Progress
 
 During the event, I solved **20 out of 65 flags**:  
 - One full challenge marked as *Easy* (12 flags).  
 - A partial solution to another challenge marked as *Medium* (8 flags).<br><br>
 
-## 📢 Official Debrief - Summary
+## 3. Official Debrief - Summary
 
 Strange cyber incidents were reported across the city, with unusual attacks on local businesses drawing Holmes’ attention. Before heading into the field, he hinted at a troubling past involving his AI creation, WATSON. Once Holmes’ trusted ally in fighting crime, WATSON had triggered the NULLINC incident — a false alert that led to a year-long ghost chase, ruined reputations, and forced Holmes to shut the AI down.
 
 Now, despite that history, Holmes has mentioned WATSON again, leaving his team puzzled. Detectives are called to support Holmes in uncovering what is truly happening in the city.<br><br>
 
-## 🚩 Challenges
+## 4. Challenges
 
 - [The Card](challenge-01-the-card/README.md) — log analysis + different prepared platforms — ✅ 12/12 flags solved  
 - [The Watchman's Residue](challenge-02-the-watchmans-residue/README.md) — packet analysis using Wireshark + disk forensics — 🕒 8/16 flags solved
@@ -26,7 +26,7 @@ The remaining challenges focused on:
 - Linux memory dump forensics,  
 - and final malware reverse engineering.<br><br>
 
-## 🛠️ Tools & Skills
+## 5. Tools & Skills
 
 - **Tools:** Wireshark, CTI platforms, forensic utilities.  
 - **Skills:** log correlation, packet analysis, IOC enrichment, persistence detection, incident investigation workflow.<br><br>
