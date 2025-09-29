@@ -18,8 +18,8 @@ Now, despite that history, Holmes has mentioned WATSON again, leaving his team p
 
 ## 4. Challenges
 
-- [The Card](challenge-01-the-card/README.md) — log analysis + different prepared platforms — ✅ 12/12 flags solved  
-- [The Watchman's Residue](challenge-02-the-watchmans-residue/README.md) — packet analysis using Wireshark + disk forensics — 🕒 8/16 flags solved
+- [The Card](challenge-01-the-card/README.md) — log analysis + different prepared platforms — 12/12 flags solved  
+- [The Watchman's Residue](challenge-02-the-watchmans-residue/README.md) — packet analysis using Wireshark + disk forensics — 8/16 flags solved
 
 The remaining challenges focused on:  
 - further Windows disk analysis,  
