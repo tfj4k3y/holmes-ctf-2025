@@ -1,21 +1,21 @@
 # Challenge - The Card
 
-## 📌 Introduction
+## 1. Introduction
 
 - **Category:** log analysis, using provided platforms like CTI.
 - **Difficulty:** Easy.
 - **Points:** 1500.
 - **Files and platforms provided:** access.log, application.log, waf.log, platforms such as Cyber Threat Intelligence platform.<br><br>
 
-## 📝 Description
+## 2. Description
 
 This challenge simulates a cyber incident at Cogwork-1. The attacker leaves digital traces across different log files, and the player needs to extract 12 flags related to the intrusion.<br><br>
 
-## 🎯 Objective
+## 3. Objective
 
 Analyze logs to identify the attacker’s activities and retrieve 12 flags.<br><br>
 
-## 🚩 Flags
+## 4. Flags
 
 ### Flag #1 – First User-Agent
 
@@ -125,7 +125,7 @@ Analyze logs to identify the attacker’s activities and retrieve 12 flags.<br><
 
 ---
 <br><br>
-## 📶 Summary
+## 5. Summary
 
 - **What I learned:** Improved my ability to correlate artifacts across different log sources, pivot IOCs into CTI platforms, and validate findings with supporting evidence. Also practiced structured documentation of investigation steps.  
 - **Most useful tools/techniques:** Wireshark, grep, jq, CyberChef, and CTI platforms (for enrichment and campaign linkage).  
